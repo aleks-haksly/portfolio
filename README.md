@@ -3,7 +3,7 @@ Portfolio Analyst CV
 
 ## Marketing analytics
 ---
-1. Сегментируем клиентов с помощью RFM анализа и определяем стратегии взаимодействия (`pandas/seaborn`)
+1. Сегментируем клиентов с помощью RFM анализа и определяем стратегии взаимодействия (`pandas/seaborn`) [здесь...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb)
 
 ## Small projects
 ---
