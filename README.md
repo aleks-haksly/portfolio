@@ -4,7 +4,7 @@ Portfolio Analyst CV
 ## Marketing analytics
 ---
 1. Сегментируем клиентов с помощью RFM анализа и определяем стратегии взаимодействия (`pandas/seaborn`) [здесь...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb)
-2. Проведем многомерный ABC анализ товаров продаваемой в аптечной сети (`pandas/sqlalchemy/window_functions`) [здесь...](/Marketing%20analytics/ABC/ABC.ipynb)
+2. Проведем многомерный ABC анализ товаров, продаваемых в аптечной сети (`pandas/sqlalchemy/window_functions`) [здесь...](/Marketing%20analytics/ABC/ABC.ipynb)
 3. Считаем Retention, Lifetime, Churn, MAU/WAU/DAU (`pandas/seaborn`) [здесь...](/Marketing%20analytics/Metrics/Metrics.ipynb)
    
 
