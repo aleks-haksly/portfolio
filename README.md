@@ -15,3 +15,4 @@ Portfolio Analyst CV
 ## SQL
 
 1. Базовый SQL (`pandas/sqlalchemy/postgresql/joins/window_functions`) [здесь...](/SQL/simple/sql_simple.ipynb)
+2. Оптимизируем размер на диске таблицы ClickHouse (`pandas/codecs/partitions/clickhouse_driver`) [здесь...](/SQL/optimization/ClickHouse_table_size_optimization.ipynb)
