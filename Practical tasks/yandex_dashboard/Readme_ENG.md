@@ -67,7 +67,7 @@ B-tree indexes were created for each column to optimize query performance. Howev
 
 The dashboard consists of three pages:
 
-### 1. [Overview Dashboard](/)
+### 1. (Overview Dashboard)
 ![Overview_dashboard](img/Overview_dashboard.jpg)
 The primary page provides a quantitative overview of query dynamics over time:
 
@@ -90,7 +90,7 @@ The primary page provides a quantitative overview of query dynamics over time:
   - Values outside the 95% confidence interval are flagged as anomalies.
 - **Trend Components:** Separate graphs for overall, weekly, and daily trends are included to visualize seasonal patterns.
 
-### 2. [Queries Counts Detailed](queries-counts-detailed)
+### 2. (Queries Counts Detailed)
 ![Queries Counts Detailed](img/Queries_counts_detailed.jpg)
 
 This page provides detailed insights into query counts:
@@ -102,7 +102,7 @@ This page provides detailed insights into query counts:
   
 - **Date Range Selector:** Allows filtering by specific date ranges. 
 
-### 3. [Queries Text Detailed](queries-text-detailed)
+### 3. (Queries Text Detailed)
 ![Queries Text Detailed](img/Queries_text_detailed.jpg)
 This page focuses on the textual analysis of popular queries:
 
