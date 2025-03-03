@@ -17,5 +17,5 @@ Portfolio Analyst CV
 4. Строим Overview дашборд в Tableau для команды листинга платформы объялений [здесь..](https://public.tableau.com/views/HardDAv10table/ListingsOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## SQL
 ---
-1. Базовый SQL (`pandas/sqlalchemy/postgresql/joins/window_functions`) [здесь...](/SQL/simple/sql_simple.ipynb)
+1. Классический SQL (`pandas/sqlalchemy/postgresql/joins/window_functions`) [здесь...](/SQL/simple/sql_simple.ipynb)
 2. Оптимизируем размер на диске таблицы ClickHouse (`pandas/codecs/partitions/clickhouse_driver`) [здесь...](/SQL/optimization/ClickHouse_table_size_optimization.ipynb)
