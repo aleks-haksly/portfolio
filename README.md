@@ -19,9 +19,9 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 ### Advanced data analysis course
 Advanced Data Analysis (Hard DA) course by karpov.courses.
 A 6-month program for Middle Data Analysts aiming for Senior roles. It covers a product-oriented approach to BI reporting, big data processing, collaboration with DWH teams, advanced A/B testing techniques, and Machine Learning for analytical problem-solving. [link...](https://github.com/aleks-haksly/KarpovCources_Hard_DA_advanced)
-### Machine-learning-and-data-science
-Comprehensive course from Udemy, focusing on supervised learning. Covers topics in NumPy, Pandas, Seaborn and Matplotlib for data visualization. The program includes feature engineering, regression and classification algorithms, data preprocessing, and hands-on experience with Scikit-Learn. 
-[link...]((https://github.com/aleks-haksly/ML-DS))
+### Machine learning and data science
+Comprehensive course from Udemy, focusing on supervised learning. Covers topics in NumPy, Pandas, Seaborn and Matplotlib for data visualization. The program includes feature engineering, regression and classification algorithms, data preprocessing, and hands-on experience with Scikit-Learn. [link...](https://github.com/aleks-haksly/ML-DS))
+
 
 ## Small projects
 ---
