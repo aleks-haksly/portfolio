@@ -17,7 +17,8 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
    
 ## Studies
 ### Advanced data analysis course
-
+Advanced Data Analysis (Hard DA) course by karpov.courses.
+A 6-month program for Middle Data Analysts aiming for Senior roles. It covers a product-oriented approach to BI reporting, big data processing, collaboration with DWH teams, advanced A/B testing techniques, and Machine Learning for analytical problem-solving. [link...](https://github.com/aleks-haksly/KarpovCources_Hard_DA_advanced)
 
 ## Small projects
 ---
