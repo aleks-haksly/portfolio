@@ -6,7 +6,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 
 ## Table of contents
 ### [Studies](#studies):
- * Advanced Data Analysis Course (Hard DA)
+ * [Advanced Data Analysis Course (Hard DA)](advanced-Data-Analysis-Course-(Hard-DA))
 
 ## Marketing analytics
 ---
@@ -15,8 +15,9 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 3. Calculation of Retention, Lifetime, Churn, MAU/WAU/DAU (`pandas/seaborn`) [here...](/Marketing%20analytics/Metrics/Metrics.ipynb)
 4. Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [here...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
    
-# Studies
-342
+## Studies
+### Advanced Data Analysis Course (Hard DA)
+
 
 ## Small projects
 ---
