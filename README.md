@@ -6,7 +6,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 
 ## Table of contents
 ### [Studies](#studies):
- * [Advanced Data Analysis Course (Hard DA)](advanced-Data-Analysis-Course-(Hard-DA))
+ * [Advanced Data Analysis Course (Hard DA)](Advanced-Data-Analysis-Course-(Hard-DA))
 
 ## Marketing analytics
 ---
