@@ -16,7 +16,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 4. Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [here...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
    
 ## Studies
-### Advanced Data Analysis Course (Hard DA)
+### advanced data analysis course (hard da)
 
 
 ## Small projects
