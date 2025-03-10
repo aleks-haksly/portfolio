@@ -1,7 +1,12 @@
-# Aleksey Fomin - Data Analysis Portfolio
+# Aleksey Fomin - Data Analyst Portfolio
 
 ## About
-Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4 years.  My profile as an analyst is purchasing and logistics operations. This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.
+Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4 years.  My profile as an analyst is purchasing and logistics operations. This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics and Data Science.
+
+
+## Table of contents
+### [Studies](#studies):
+ * Advanced Data Analysis Course (Hard DA)
 
 ## Marketing analytics
 ---
@@ -10,6 +15,8 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 3. Calculation of Retention, Lifetime, Churn, MAU/WAU/DAU (`pandas/seaborn`) [here...](/Marketing%20analytics/Metrics/Metrics.ipynb)
 4. Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [here...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
    
+# Studies
+342
 
 ## Small projects
 ---
