@@ -6,7 +6,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 
 ## Table of contents
 ### [Studies](#studies):
- * [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course-(hard-da))
+ * [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
 
 ## Marketing analytics
 ---
@@ -16,7 +16,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 4. Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [here...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
    
 ## Studies
-### advanced data analysis course (hard da)
+### advanced data analysis course
 
 
 ## Small projects
