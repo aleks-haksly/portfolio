@@ -5,7 +5,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 
 
 ## Table of contents
-### [Studies:](#studies)
+[Studies:](#studies)
  * [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
  * [Machine Learning & Data Science](#machine-learning-and-data-science)
  * [LeetCode](#leetcode)
