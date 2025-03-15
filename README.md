@@ -8,6 +8,7 @@ Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4
 ### [Studies:](#studies)
  * [Advanced Data Analysis Course (Hard DA)](#advanced-data-analysis-course)
  * [Machine Learning & Data Science](#machine-learning-and-data-science)
+ * [LeetCode](#leetcode)
 ## Marketing analytics
 ---
 1. Segmenting customers using RFM analysis and defining interaction strategies (`pandas/seaborn`) [here...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb)
@@ -21,7 +22,8 @@ Advanced Data Analysis (Hard DA) course by karpov.courses.
 A 6-month program for Middle Data Analysts aiming for Senior roles. It covers a product-oriented approach to BI reporting, big data processing, collaboration with DWH teams, advanced A/B testing techniques, and Machine Learning for analytical problem-solving. [link...](https://github.com/aleks-haksly/KarpovCources_Hard_DA_advanced)
 ### Machine learning and data science
 Comprehensive course from Udemy, focusing on supervised learning. Covers topics in NumPy, Pandas, Seaborn and Matplotlib for data visualization. The program includes feature engineering, regression and classification algorithms, data preprocessing, and hands-on experience with Scikit-Learn. [link...](https://github.com/aleks-haksly/ML-DS))
-
+### Leetcode
+Solving 100+ LeeCode problems on DataBase topic in both PostgreSQL & Pandas [link...](https://github.com/aleks-haksly/leetcode)
 
 ## Small projects
 ---
