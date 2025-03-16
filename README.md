@@ -43,9 +43,9 @@ Parsing data on economic indicators of companies' activities and studying the pr
 ### Analysis of Yandex search queries
 Development and installation of a dashboard about Yandex search queries using Docker and Vizro framework for frontend. Taking data from [postgres](https://supabase.com/), detect anomalies and trends in time series using fb Prophet.[repos..](/Practical%20tasks/yandex_dashboard)
 ### RFM analysis
-Segmenting customers using RFM analysis and defining interaction strategies (`pandas/seaborn`) [repos...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb)
+Segmenting customers using RFM analysis and defining interaction strategies (`pandas/seaborn`) [repos...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb) + [website](https://rfm-abc-xyz.streamlit.app/)
 ### ABC XYZ analysis
-Conducting a multidimensional ABC combined with XYZ analysis of goods sold in a pharmacy chain(`pandas/sqlalchemy/window_functions`) [repos...](/Marketing%20analytics/ABC/ABC.ipynb)
+Conducting a multidimensional ABC combined with XYZ analysis of goods sold in a pharmacy chain(`pandas/sqlalchemy/window_functions`) [repos...](/Marketing%20analytics/ABC/ABC.ipynb) + [website](https://rfm-abc-xyz.streamlit.app/ABC_XYZ_analysis)
 ### Cohort analysis
 Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [repos...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
 ### Retention metrics
