@@ -38,17 +38,17 @@ Solving 100+ LeeCode problems on DataBase topic in both PostgreSQL & Pandas [rep
 ## Side projects
 ### Streamlit website with dashboard and predicitve model
 Here I used Kaggle [dataset](https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system/data?select=movies.csv) for building dashboard on Streamlit (my favourite python frontend framework) with movies recommendation system on sklearn XGBR model. Check the [website here](https://kagglerecsys.streamlit.app/). And [here](https://github.com/aleks-haksly/Streamlit/blob/main/README.md) is the repos with python code for Streamlit frontend, ML, and aiohttp passer for movie covers.
-## Analysis of companies economic indicators 
+### Analysis of companies economic indicators 
 Parsing data on economic indicators of companies' activities and studying the prospects of the construction industry by analyzing changes in the indicator [EBITDA](https://национальныепроекты.рф/news/chto-takoe-ebitda/) of russian construction companies for a 4 year period  [repos...](/Practical%20tasks/nalog.ru/EBITDA%20analysis.ipynb)
-## Analysis of Yandex search queries
+### Analysis of Yandex search queries
 Development and installation of a dashboard about Yandex search queries using Docker and Vizro framework for frontend. Taking data from [postgres](https://supabase.com/), detect anomalies and trends in time series using fb Prophet.[repos..](/Practical%20tasks/yandex_dashboard)
-## RFM analysis
+### RFM analysis
 Segmenting customers using RFM analysis and defining interaction strategies (`pandas/seaborn`) [repos...](/Marketing%20analytics/RFM/RFM%20analysis.ipynb)
-## ABC XYZ analysis
+### ABC XYZ analysis
 Conducting a multidimensional ABC combined with XYZ analysis of goods sold in a pharmacy chain(`pandas/sqlalchemy/window_functions`) [repos...](/Marketing%20analytics/ABC/ABC.ipynb)
-## Cohort analysis
+### Cohort analysis
 Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/pandas/seaborn`) [repos...](/Marketing%20analytics//UNIT/unit_economics.ipynb)
-## Retention metrics
+### Retention metrics
 Calculation of Retention, Lifetime, Churn, MAU/WAU/DAU (`pandas/seaborn`) [repos...](/Marketing%20analytics/Metrics/Metrics.ipynb)
-## Developing Tableau dashboards
-Developing Tableau dashboards an Overview dashboard in Tableau for the listing team of a classifieds platform [repos..]
+### Developing Tableau dashboards
+Developing Tableau dashboards an Overview dashboard in Tableau for the listing team of a classifieds platform [dashboard..](https://public.tableau.com/app/profile/aleksey.fomin/viz/HardDAv10table/ListingsOverview)
