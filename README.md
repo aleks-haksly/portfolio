@@ -1,7 +1,7 @@
 # Aleksey Fomin - Data Analyst Portfolio
 
 ## About
-Hi, I'm Alex! I work as data analyst in Nabors Drilling International for last 4 years.  My profile as an analyst is purchasing and logistics operations. This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics and Data Science.
+Hi, I'm Alex, the Data Analyst! This repository showcases my skills, shares my projects, and tracks my progress in Data Analytics and Data Science.
 
 
 ## Table of contents
