@@ -36,7 +36,7 @@ Advanced [course](https://stepik.org/course/82541/info) for professionals lookin
 Solving 100+ LeeCode problems on DataBase topic in both PostgreSQL & Pandas [repos...](https://github.com/aleks-haksly/leetcode)
 
 ## Side projects
-### Streamlit website with dashboard and predicitve model
+### streamlit website with dashboard and predicitve model
 Here I used Kaggle [dataset](https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system/data?select=movies.csv) for building dashboard on Streamlit (my favourite python frontend framework) with movies recommendation system on sklearn XGBR model. Check the [website here](https://kagglerecsys.streamlit.app/). And [here](https://github.com/aleks-haksly/Streamlit/blob/main/README.md) is the repos with python code for Streamlit frontend, ML, and aiohttp passer for movie covers.
 ### Analysis of companies economic indicators 
 Parsing data on economic indicators of companies' activities and studying the prospects of the construction industry by analyzing changes in the indicator [EBITDA](https://национальныепроекты.рф/news/chto-takoe-ebitda/) of russian construction companies for a 4 year period  [repos...](/Practical%20tasks/nalog.ru/EBITDA%20analysis.ipynb)
