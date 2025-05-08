@@ -51,4 +51,4 @@ Calculation of unit economics by cohorts: ARRPPU, LTV, [COGS, CAC] (`clickhouse/
 ### Retention metrics
 Calculation of Retention, Lifetime, Churn, MAU/WAU/DAU (`pandas/seaborn`) [repos...](/Marketing%20analytics/Metrics/Metrics.ipynb)
 ### Developing tableau dashboards
-Developing Tableau dashboards an Overview dashboard in Tableau for the listing team of a classifieds platform [dashboard..](https://public.tableau.com/app/profile/aleksey.fomin/viz/HardDAv10table/ListingsOverview)
+Developing Tableau dashboards an Overview dashboard in Tableau for the listing team of a classifieds platform [dashboard..](https://public.tableau.com/app/profile/aleksey.fomin/viz/HardDAv10table2/ListingsOverview)
